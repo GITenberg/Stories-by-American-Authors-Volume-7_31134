@@ -1,0 +1,30 @@
+_repo: Stories-by-American-Authors-Volume-7_31134
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2010-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31134'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Social life and customs -- Fiction'
+- !lcsh 'Short stories, American'
+- !lcc 'PS'
+tableOfContents: "The bishop's vagabond, by Octave Thanet\r\nLost, by Edward Bellamy\r\
+  \nKirby's coals of fire, by Louise Stockton\r\nPassages from the journal of a social\
+  \ wreck, by Margaret Floyd\r\nStella Grayland, by James T. McKay\r\nThe image of\
+  \ San Donato, by Virginia W. Johnson."
+title: Stories by American Authors, Volume 7
+url: http://www.gutenberg.org/ebooks/31134
